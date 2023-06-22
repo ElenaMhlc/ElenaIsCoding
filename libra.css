@@ -107,39 +107,6 @@ label { margin: 0 40px 0 0;
 nav .MainNav .menu a:hover{
     color:  #268bcc;
 } 
-/* <div class="topBar">
-<ul>
-    <li>
-        <a href="#">
-         <span class="material-symbols-outlined p-2">mail</span>
-          info@libratrust.com</a>
-    </li>
-    <li>
-        <a href="#">
-        <span class="material-symbols-outlined p-2">call</span>
-        +41 41 266 07 67
-        </a>
-    </li>
-</ul>
-</div>
-<nav class="container MainNav">
-
-    <div>
-        <a href="#">
-        <img src= "img/LibraTrust_logo.png" alt="Libra Trust"></a>
-    </div>
-
-    <div class="navbar-menu">
-   
-        <ul class="menu-listing" id="myLinks">
-            <li><a href="#" id="blue">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Blog</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </div>
-</nav>--!> */
 .sectionServices{
     background-color: #f2f2f2;
     padding-bottom: 100px;
